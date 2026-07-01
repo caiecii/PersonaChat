@@ -19,7 +19,7 @@ PersonaChat is a fully local Android app, which is BYOK, and stores all your dat
 ## Frequently Asked Questions
 
 **What does BYOK mean?**
-'Bring Your Own Key'. PersonaChat uses Gemini API keys to function. To find out how to get your own API key, check here
+'Bring Your Own Key'. PersonaChat uses Gemini API keys to function. To find out how to get your own API key, check here > https://ai.google.dev/gemini-api/docs/api-key
 
 **Why can't I send a message?**
 Either you haven't configured your API key correctly, or you're being rate limited. If you're not a paying user (i.e. you haven't bought Gemini credits, which is totally optional), I'd recommend using Gemma 4 31B since it has unlimited messages - the other models are there for power users.
